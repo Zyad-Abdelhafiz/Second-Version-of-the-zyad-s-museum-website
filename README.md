@@ -1,4 +1,4 @@
 # Second Version of the zyad's museum website
 
 
-https://zyad-abdelhafiz.github.io/zyad-s-mus/
+https://zyad-abdelhafiz.github.io/Second-Version-of-the-zyad-s-museum-website/
